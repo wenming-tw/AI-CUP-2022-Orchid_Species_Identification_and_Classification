@@ -15,7 +15,7 @@ Private     | 0.811896  |   10th
 Package         |   Version
 --------------------------------
 torch           |   1.11.0+cu113
-torchvision	    |   0.12.0+cu113
+torchvision	|   0.12.0+cu113
 numpy	        |   1.21.2
 pandas	        |   1.3.4
 transformers	|   4.18.0
@@ -89,5 +89,5 @@ python test.py
     │   ├── fold_2
     │   ├── fold_3
     │   └── fold_4
-	└── .... 
+    └── .... 
 ```
